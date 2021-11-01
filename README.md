@@ -11,7 +11,4 @@
 * Robotics 
 * SneakerHead
 
-
-#                                                                        💩
-
-
+<img width="897" alt="Screen Shot 2021-11-01 at 2 48 24 PM" src="https://user-images.githubusercontent.com/93546019/139724813-7ccd7e17-2e87-4bd9-9bcf-7055651b14c6.png">
