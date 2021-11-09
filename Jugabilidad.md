@@ -1,5 +1,10 @@
 # Elementos de la Jugabilidad: Clash Royale
 
+<img src="https://variety.com/wp-content/uploads/2019/03/clash-royale.jpg"
+     tittle= "Clash Royale"
+      width="100%"
+      height="30%"  />
+
 ## Atmosphera 
 
 ### background
