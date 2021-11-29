@@ -9,7 +9,7 @@
        height="40%" />
   
   <h3> Ingredients: </h3>
-  <b> Include images of each ingredient </b>
+  
   <ul> 
   <li></li>  
   <img
