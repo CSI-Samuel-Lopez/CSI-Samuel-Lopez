@@ -11,25 +11,44 @@
   <h3> Ingredients: </h3>
   
   <ul> 
-  <li></li>  
+  <li>leche(A)</li>  
   <img
        src=""
        tittle=""
        width="%"
        height="%" />
-  <li></li>
+  <li>harina de arroz (A) </li>
    <img
        src=""
        tittle=""
        width="%"
        height="%" />
-  <li></li>
+  <li>sal (A) </li>
    <img
        src=""
        tittle=""
        width="%"
        height="%" />
-  <li></li>
+  <li>azucar (A) </li>
+   <img
+       src=""
+       tittle=""
+       width="%"
+       height="%" />
+  
+   <li>canela (A) </li>
+   <img
+       src=""
+       tittle=""
+       width="%"
+       height="%" />
+   <li>renuevo naranjo (b) </li>
+   <img
+       src=""
+       tittle=""
+       width="%"
+       height="%" /> 
+  <li> agua de hazar (b) </li>
    <img
        src=""
        tittle=""
@@ -40,7 +59,11 @@
  
  <h3> Steps </h3> 
  <ol>
+  <li>1-Combine en un caldero los ingredientes incluídos en A. Pón-
+galo a fuego moderado-alto y mezcle con cuchara de madera
+hasta hervir. Inmediatamente reduzca el fuego a moderado.
+Agregue los ingredientes incluídos en B y mezcle por 2
+minutos.</li>
   <li></li>
-  <li></li>
-  <li></li> 
- </ol> 
+  
+ 
