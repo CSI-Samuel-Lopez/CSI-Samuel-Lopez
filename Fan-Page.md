@@ -1,8 +1,9 @@
-<div
-<h1 style="font-family:Brush Script MT; font-size:300%;" align="center"> <b> Lionel Messi </b></h1>
+
+<h1 style="font-family:Brush Script MT; font-size:300%;" align="center"><b> Lionel Messi </b></h1>
 
 
-<div> <img  src="https://assets.entrepreneur.com/content/3x2/2000/1629133563-messi-playera.jpg"
+<div align="center"> 
+      <img src="https://assets.entrepreneur.com/content/3x2/2000/1629133563-messi-playera.jpg"
       title="Messi"
       width="40%"
       height="40%" />
@@ -13,12 +14,15 @@
   
 
 <br>
-<H2>
+<H3>
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-    <a href="https://www.instagram.com/leomessi/"> Lionel Messi </a>  is a popular soccer player. He currently plays for the paris saint Germain soccer team in paris, France. Messi started playing soccer 1995(8 years of age). He caught the atention of soccer teams in both sides of the atlantic ocean. He had a growth defficiency which stoped his growingf drastically at 11 years old. </H2>
-</p>
-<H1></H1>
+    <a href="https://www.instagram.com/leomessi/"> Lionel Messi </a>  is a popular soccer player. He currently plays for the paris saint Germain soccer team in paris, France. Messi started playing soccer 1995(8 years of age). He caught the atention of soccer teams in both sides of the atlantic ocean. He had a growth defficiency which stoped his growingf drastically at 11 years old. 
+</p> </H3>
 <br>
+<H3>
+<p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
+      Msssi has a networth of $600 gained most of it at the football club barcelona but his recent swich to paris saint germain will not hurt thet networth. He is the best soccer player in the world right now with ronaldo right behind him.
+</p> </H3>
 
 <H1> <div align="center">
     <img    src="https://static.standard.co.uk/2021/09/07/12/AFP_9LV7YD.jpg?width=968&auto=webp&quality=75&crop=968%3A645%2Csmart"
