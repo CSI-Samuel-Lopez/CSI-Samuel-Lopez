@@ -55,7 +55,7 @@
 <br>
 
 
-<table>
+<H1></H1><table align="center">
     <tr>
         <th>Name</th>
         <td><a href="https://www.instagram.com/leomessi/"> Lionel Messi </a></td>
@@ -82,7 +82,7 @@
     </tr>
     
     
-</table>
+</table> <H1></H1>
 
 
 <br><br>
